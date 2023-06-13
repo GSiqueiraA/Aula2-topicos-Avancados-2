@@ -1,4 +1,4 @@
-# se Cases
+# Use Cases
 
 ## Criar Usuário
 
