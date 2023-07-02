@@ -1,3 +1,3 @@
 # Aula2-topicos-Avancados-2
 
-Casos de uso de uma Farmácia com possiveis cenáriosusando Gherkin
+Casos de uso de uma Farmácia com possiveis cenários usando Gherkin
